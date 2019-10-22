@@ -8,6 +8,7 @@ int main()
 	gets(a);
 	gets(b);
 	int i=0,j=0;
+//Hello world
 	while(a[i]!='\0')
 	{
 		n1[a[i]-'a']++;
